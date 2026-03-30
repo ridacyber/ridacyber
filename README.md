@@ -1,5 +1,5 @@
 # Rida  
-Cybersecurity student | Future ethical hacker
+Computer Science Student
 
 Trying to break systems for the right reasons.
 
