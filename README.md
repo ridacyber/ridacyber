@@ -10,8 +10,8 @@ I am an engineer focused on the intersection of deep tech infrastructure, full-s
 ## 🚀 Active Technical Focus
 
 *   **AI Architecture (NASA SUITS):** Engineering the AI layer for an augmented reality spacesuit assistant. Specializing in strict prompt safety, preventing LLM hallucinations, and maintaining complete separation between probabilistic model suggestions and mission-critical deterministic space system functions.
-*   **B2B AI Orchestration:** Developed **DeltaReview**, an open-source, no-login AI code diff reviewer supporting 23+ languages powered by Groq’s inference API and serverless architectures.
-*   **Systems & Embedded Software:** Building single-purpose embedded kiosk devices via hard Android OS management (`DevicePolicyManager`) and building interpreter logic (parsers/lexers) entirely from scratch.
+*   **B2B AI Orchestration:** Developed **DeltaReview**,no integrations, no-login AI code diff reviewer supporting 23+ languages powered by Groq’s inference API and serverless architectures.
+*   **Systems & Embedded Software:** Built TawakalPlayer, a single-purpose embedded kiosk devices via hard Android OS management (`DevicePolicyManager`) and Asas was mostly built as an interpreter logic (parsers/lexers) entirely from scratch.
 
 ---
 
