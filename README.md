@@ -1,6 +1,6 @@
 # Hi, I'm Rida Rahim
 
-### Computer Science Junior @ NYIT | Minor in Civic Futures: Policy, Justice & Advocacy
+### Computer Science Major | Minor in Civic Futures: Policy, Justice & Advocacy | NYIT
 **Majoring in what I build. Minoring in who it’s for.**
 
 I am an engineer focused on the intersection of deep tech infrastructure, full-stack AI orchestration, and system safety. From building deterministic AI layers for aerospace frameworks(NASA SUITS Proposal) to designing programming languages from first principles, I specialize in engineering secure, high-stakes software pipelines.
