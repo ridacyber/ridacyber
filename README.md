@@ -1,4 +1,4 @@
-# Hi, I'm Rida Rahim 👋
+# Hi, I'm Rida Rahim
 
 ### Computer Science Junior @ NYIT | Minor in Civic Futures: Policy, Justice & Advocacy
 **"Trying to break systems for the right reasons."**
