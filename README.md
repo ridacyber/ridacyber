@@ -28,9 +28,9 @@ I am an engineer focused on the intersection of deep tech infrastructure, full-s
 
 ## 🗂️ Core Portfolio Highlights
 
-*   **[DeltaReview]** – AI-powered code diff analytics engine featured on **zPlatform.ai** (Aug 2026). Made for frictionless developer workflows with zero retention, tracking, or mandatory authentications.
-*   **[TawakalPlayer]** – Dedicated kiosk-mode Android Quran audio appliance locked into Android Device Owner mode. Features a reactive Jetpack Compose interface and low-level system profiling.
-*   **[Asas Language]** – A programming language compiler built from first principles (hand-written lexical analyzer, recursive descent parser, runtime environment tree evaluator).
+*   **DeltaReview** – AI-powered code diff analytics engine featured on **zPlatform.ai** (Aug 2026). Made for frictionless developer workflows with zero retention, tracking, or mandatory authentications.
+*   **TawakalPlayer** – Dedicated kiosk-mode Android Quran audio appliance locked into Android Device Owner mode. Features a reactive Jetpack Compose interface and low-level system profiling.
+*   **Asas Language** – A programming language compiler built from first principles (hand-written lexical analyzer, recursive descent parser, runtime environment tree evaluator).
 
 ---
 
@@ -46,7 +46,7 @@ I am an engineer focused on the intersection of deep tech infrastructure, full-s
 
 *   **LinkedIn:** linkedin.com/in/rida-rahim-a7b2652b5/
 *   **Email:** ridarahim76@gmail.com
-*   
+
 
 
 
