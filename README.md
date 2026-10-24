@@ -35,7 +35,7 @@ I am an engineer focused on the intersection of deep tech infrastructure, full-s
 ---
 
 ## 🎙️ In the Media & Community
-*   **Article by NYIT:** *"A First-Gen Entrepreneur and Computer Science student Rida Rahim has an impressive résumé of projects, and is only getting started."* (Oct 2026).
+*   **Article by NYIT:** *"A First-Gen Entrepreneur and Computer Science student Rida Rahim has an impressive résumé of projects, and is only getting started"* (Oct 2026).
 *   **Interviewed by zPlatform.ai:** *"Rida Rahim on Building an AI Code Reviewer With No Login, No Data, and No Team"* (Aug 2026).
 *   **Quoted by MoneyWise, Syndicated by Yahoo Finance:** Discussing generative AI's immediate economic and systemic impacts on young workforce entries and students (Jun 2026).
 *   **Founder @ TawakalStudio LLC:** Operating a boutique web engineering and digital optimization studio helping small businesses across Long Island deploy production assets.
